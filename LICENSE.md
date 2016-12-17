@@ -1,1 +1,1 @@
-[Licencia Creative Commons Atribución Compartir Igual 3.0](https://creativecommons.org/licenses/by/3.0/es/)
+[Reconocimiento-CompartirIgual 2.0 Genérica (CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/deed.es_ES)
