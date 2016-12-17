@@ -12,15 +12,20 @@ Además, desde que nacieron, han surgido diferentes técnicas de prototipado y t
 
 Para comparar las diferentes técnicas que vamos a explicar, estableceremos una clasificación. Las vamos a diferenciar entre técnicas de prototipado aditivas, aquellas en las que se realiza aporte de material; y técnicas sustractivas, aquellas en las que se retira material hasta adoptar la forma deseada. También diferenciaremos entre aquellas en las que se prototipa punto a punto o por capas completas. Empleando o no láser y, por último, según la fase del material de suministro, líquida, sólida o en polvo.
 
-              Técnica
+**Técnica**
 
 | Estereolitografía                 | Aditiva     | Punto a punto | Con láser | Líquida |
 |-----------------------------------|-------------|---------------|-----------|---------|
 | Curado en base sólida             | Aditiva     | Capa completa | Sin láser | Líquida |
+|-----------------------------------|-------------|---------------|-----------|---------|
 | Sinterizado selectivo por base    | Aditiva     | Punto a punto | Con láser | Polvo   |
+|-----------------------------------|-------------|---------------|-----------|---------|
 | Modelación por deposición fundida | Aditiva     | Punto a punto | Sin láser | Líquida |
+|-----------------------------------|-------------|---------------|-----------|---------|
 | Fabricación laminada              | Sustractiva | Capa completa | Con láser | Sólida  |
+|-----------------------------------|-------------|---------------|-----------|---------|
 | Mecanizado a alta velocidad       | Sustractiva | Punto a punto | Sin láser | Sólida  |
+|-----------------------------------|-------------|---------------|-----------|---------|
 
 Una impresión 3D es una máquina capaz de realizar réplicas de diseños en 3D, creando piezas o maquetas volúmetricas a partir de un diseño por ordenador, descargado de internet o recogido a partir de un scáner 3D. Surgen con la idea de convertir archivos de 2D en prototipos reales o 3D.
 
