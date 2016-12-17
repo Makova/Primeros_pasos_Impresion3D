@@ -23,6 +23,7 @@ Para comparar las diferentes técnicas que vamos a explicar, estableceremos una 
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/xgTf-rHRnXE)
 
+
 Una impresión 3D es una máquina capaz de realizar réplicas de diseños en 3D, creando piezas o maquetas volúmetricas a partir de un diseño por ordenador, descargado de internet o recogido a partir de un scáner 3D. Surgen con la idea de convertir archivos de 2D en prototipos reales o 3D.
 
 Comúnmente se ha utilizado en la prefabricación de piezas o componentes, en sectores como la [arquitectura](https://es.wikipedia.org/wiki/Arquitectura) y el [diseño industrial](https://es.wikipedia.org/wiki/Dise%C3%B1o_industrial). En la actualidad se está extendiendo su uso en la fabricación de [prótesis](https://es.wikipedia.org/wiki/Pr%C3%B3tesis) médicas, ya que la impresión 3D permite adaptar cada pieza fabricada a las características exactas de cada paciente.
