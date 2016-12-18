@@ -71,6 +71,20 @@ Pues con las impresoras tridimensionales tenemos, como su propio nombre indica, 
 La gran diferencia es que en lugar de imprimir tinta sobre papel, normalmente lo que hacemos es ir capa por capa depositando un material fundido que se va enfriando, o endureciendo un material líquido en zonas concretas, o incluso soltando tinta de colores con una especie de pegamento en un material en polvo.
 Aparte de los sistemas mencionados existen otros muchos y dependiendo de la tecnología utilizada se trabajará con un material u otro, tendremos más resolución, será más rápida, permitirá usar colores, etc… Pero en general todos estos métodos suelen ser aditivos, es decir, van añadiendo material para formar el objeto. A diferencia de los métodos sustractivos, en los que a partir de un material en bruto se le va dando forma eliminando material con herramientas, o incluso otros sistemas de fabricación como la fundición, la extrusión, etc…
 
-Lea más en http://www.silicon.es/impresion-tridimensional-llega-el-futuro-de-los-sistemas-de-produccion-49043#yxT1JgIO2Hogb7hm.99
+[Más información](http://www.silicon.es/impresion-tridimensional-llega-el-futuro-de-los-sistemas-de-produccion-49043#yxT1JgIO2Hogb7hm.99)
 
+[Montaje Anet A8 3D](https://www.youtube.com/watch?v=AXyZLaHBEMQ&list=PLQox1aWxzCN3J9EtjGQgz9QfJK7DmFYg5)
 
+[Impresora Gearbest](http://www.gearbest.com/3d-printers-3d-printer-kits/pp_337314.html?wid=21)
+
+**Compra de filamentos:** 
+
+[CREATEC 3D](https://createc3d.com/shop/en/7-filament)
+[FILAMENTO ABS AMAZON](https://www.amazon.es/s/ref=sr_nr_p_85_0?fst=as%3Aoff&rh=i%3Aaps%2Ck%3AFilamento+ABS%2Cp_85%3A831314031&keywords=Filamento+ABS&ie=UTF8&qid=1478097532&rnid=831276031)
+[FILAMENTO ABS PC-COMPONENTES](https://www.pccomponentes.com/buscar/?query=filamento+abs)
+[FILAMENTO PLA AMAZON](https://www.amazon.es/s/ref=nb_sb_noss_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Filamento+pla+bq&rh=i%3Aaps%2Ck%3AFilamento+pla+bq)
+[FILAMENTO PLA PC-COMPONENTES](https://www.pccomponentes.com/buscar/?query=filamento+pla)
+[FILAMENTO MADERA AMAZON](https://www.amazon.es/s/ref=nb_sb_noss_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Filamento+madera&rh=i%3Aaps%2Ck%3AFilamento+madera)
+[FILAMENTO MADERA PC-COMPONENTES](https://www.pccomponentes.com/bq-bobina-de-filamento-pla-1-75mm-madera)
+
+[Mejoras de la impresora Gearbest]( https://groups.google.com/forum/#!topic/asrob-uc3m-impresoras-3d/Cg3HgZSAcig)
