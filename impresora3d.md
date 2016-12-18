@@ -25,12 +25,14 @@ https://www.youtube.com/embed/xgTf-rHRnXE
 
 https://www.youtube.com/embed/nvTeJvRi8Bo
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/nvTeJvRi8Bo)
+
 **IMPORTANTE, CALIBRAR EJE Z DESPUÉS DE TRASLADAR LA IMPRESORA**
 
 https://youtu.be/gDcAXN6jsOc
 
 ```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gDcAXN6jsOc" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/gDcAXN6jsOc" frameborder="0" allowfullscreen></iframe>
 ```
 Una impresión 3D es una máquina capaz de realizar réplicas de diseños en 3D, creando piezas o maquetas volúmetricas a partir de un diseño por ordenador, descargado de internet o recogido a partir de un scáner 3D. Surgen con la idea de convertir archivos de 2D en prototipos reales o 3D.
 
