@@ -23,6 +23,8 @@ Para comparar las diferentes técnicas que vamos a explicar, estableceremos una 
 
 https://www.youtube.com/embed/xgTf-rHRnXE
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nvTeJvRi8Bo" frameborder="0" allowfullscreen></iframe>
+
 
 Una impresión 3D es una máquina capaz de realizar réplicas de diseños en 3D, creando piezas o maquetas volúmetricas a partir de un diseño por ordenador, descargado de internet o recogido a partir de un scáner 3D. Surgen con la idea de convertir archivos de 2D en prototipos reales o 3D.
 
