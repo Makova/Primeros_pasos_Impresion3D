@@ -72,6 +72,8 @@ Aparte de los sistemas mencionados existen otros muchos y dependiendo de la tecn
 
 [Impresora Gearbest](http://www.gearbest.com/3d-printers-3d-printer-kits/pp_337314.html?wid=21)
 
+[Printme3D](http://www.printme3d.com/)
+
 **Compra de filamentos:** 
 
 [CREATEC 3D](https://createc3d.com/shop/en/7-filament)
