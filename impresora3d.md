@@ -25,7 +25,7 @@ https://www.youtube.com/embed/xgTf-rHRnXE
 
 https://www.youtube.com/embed/nvTeJvRi8Bo
 
-**IMPORTANTE, CALIBRAR EJE Z DESPUÉS DE TRASLADAR LA IMPRESORA **
+**IMPORTANTE, CALIBRAR EJE Z DESPUÉS DE TRASLADAR LA IMPRESORA**
 
 https://youtu.be/gDcAXN6jsOc
 
