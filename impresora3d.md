@@ -80,11 +80,17 @@ Aparte de los sistemas mencionados existen otros muchos y dependiendo de la tecn
 **Compra de filamentos:** 
 
 [CREATEC 3D](https://createc3d.com/shop/en/7-filament)
+
 [FILAMENTO ABS AMAZON](https://www.amazon.es/s/ref=sr_nr_p_85_0?fst=as%3Aoff&rh=i%3Aaps%2Ck%3AFilamento+ABS%2Cp_85%3A831314031&keywords=Filamento+ABS&ie=UTF8&qid=1478097532&rnid=831276031)
+
 [FILAMENTO ABS PC-COMPONENTES](https://www.pccomponentes.com/buscar/?query=filamento+abs)
+
 [FILAMENTO PLA AMAZON](https://www.amazon.es/s/ref=nb_sb_noss_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Filamento+pla+bq&rh=i%3Aaps%2Ck%3AFilamento+pla+bq)
+
 [FILAMENTO PLA PC-COMPONENTES](https://www.pccomponentes.com/buscar/?query=filamento+pla)
+
 [FILAMENTO MADERA AMAZON](https://www.amazon.es/s/ref=nb_sb_noss_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Filamento+madera&rh=i%3Aaps%2Ck%3AFilamento+madera)
+
 [FILAMENTO MADERA PC-COMPONENTES](https://www.pccomponentes.com/bq-bobina-de-filamento-pla-1-75mm-madera)
 
 [Mejoras de la impresora Gearbest]( https://groups.google.com/forum/#!topic/asrob-uc3m-impresoras-3d/Cg3HgZSAcig)
