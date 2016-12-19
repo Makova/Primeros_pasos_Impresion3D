@@ -66,6 +66,31 @@ Pues con las impresoras tridimensionales tenemos, como su propio nombre indica, 
 La gran diferencia es que en lugar de imprimir tinta sobre papel, normalmente lo que hacemos es ir capa por capa depositando un material fundido que se va enfriando, o endureciendo un material líquido en zonas concretas, o incluso soltando tinta de colores con una especie de pegamento en un material en polvo.
 Aparte de los sistemas mencionados existen otros muchos y dependiendo de la tecnología utilizada se trabajará con un material u otro, tendremos más resolución, será más rápida, permitirá usar colores, etc… Pero en general todos estos métodos suelen ser aditivos, es decir, van añadiendo material para formar el objeto. A diferencia de los métodos sustractivos, en los que a partir de un material en bruto se le va dando forma eliminando material con herramientas, o incluso otros sistemas de fabricación como la fundición, la extrusión, etc…
 
+**EJEMPLOS:**
+
+http://www.lavanguardia.com/motor/innovacion/20161219/412503006469/blade-superdeportivo-impresora-3d.html
+
+http://impresiontresde.com/blog/9-aplicaciones-medicas-de-la-impresion-3d/
+
+http://atres.red/w8d6j
+
+http://www.microsiervos.com/archivo/ciencia/avances-impresion-3d-arterias-organos.html
+
+Un equipo de investigadores pertenecientes al Computer Science and Artificial Intelligence Laboratory (CSAIL), del MIT, han dado con una técnica de impresión 3D que permitirá definir la rigidez y elasticidad de cada parte del producto a imprimir con el objetivo de que el producto final pueda tener de partes rígidas y de partes flexibles que lo protejan del exterior, donde en el caso de los robots, estos podrían disponer de una piel blanda dedicada a absolver posibles impactos y posibilitarles la realización de movimientos más ágiles y precisos.
+
+http://news.mit.edu/2016/3-d-printed-robots-shock-absorbing-skins-1003
+
+*Construcción*
+
+http://magazine.solvia.es/la-impresion-en-3d-y-su-futuro-en-la-arquitectura/
+
+*Primer puente instalado en Madrid*
+
+http://magazine.solvia.es/la-impresion-en-3d-y-su-futuro-en-la-arquitectura/
+
+
+
+
 [Más información](http://www.silicon.es/impresion-tridimensional-llega-el-futuro-de-los-sistemas-de-produccion-49043#yxT1JgIO2Hogb7hm.99)
 
 [Montaje Anet A8 3D](https://www.youtube.com/watch?v=AXyZLaHBEMQ&list=PLQox1aWxzCN3J9EtjGQgz9QfJK7DmFYg5)
